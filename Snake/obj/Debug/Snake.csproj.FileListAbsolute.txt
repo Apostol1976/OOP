@@ -1,0 +1,6 @@
+c:\users\barak obama\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\barak obama\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\barak obama\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\barak obama\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\barak obama\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\barak obama\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
