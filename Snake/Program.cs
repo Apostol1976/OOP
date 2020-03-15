@@ -13,7 +13,7 @@ namespace Snake
             Point p1 = new Point(3,3,'#');
             p1.Draw();
 
-            Point p2 = new Point(5,5,'#');
+            Point p2 = new Point(6,6,'#');
             p2.Draw();
 
             List<int> numList = new List<int>();
